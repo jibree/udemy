@@ -1,0 +1,17 @@
+@media(max-width: 900px){
+    nav{
+        background-color: rgb(45, 42, 56);
+    }
+    .header{
+        text-align: center;
+        padding:10px;
+    }
+    #background-image img{
+        width:500px;
+        height:500px;
+    }
+    .places{
+        width: 900px;
+    }
+    
+}
